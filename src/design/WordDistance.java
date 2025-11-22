@@ -39,7 +39,6 @@ public class WordDistance {
     }
     
     public int shortest(String word1, String word2) {
-        // add code
-        return 0;
+        
     }
 }

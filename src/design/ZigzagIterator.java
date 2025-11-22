@@ -53,12 +53,10 @@ public class ZigzagIterator {
     }
 
     public int next() {
-        // add code
-        return 0;
+
     }
 
     public boolean hasNext() {
-        // add code
-        return false;
+        
     }
 }

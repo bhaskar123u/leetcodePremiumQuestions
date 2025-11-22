@@ -43,7 +43,6 @@ public class Logger {
     }
     
     public boolean shouldPrintMessage(int timestamp, String message) {
-        // add code
-        return false;
+
     }
 }

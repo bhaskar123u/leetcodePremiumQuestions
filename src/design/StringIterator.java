@@ -45,11 +45,10 @@ public class StringIterator {
     }
     
     public char next() {
-        // add code
-        return '#';
+
     }
     
     public boolean hasNext() {
-        return false;
+
     }
 }

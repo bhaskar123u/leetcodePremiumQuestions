@@ -43,7 +43,6 @@ public class TwoSum {
     }
     
     public boolean find(int value) {
-        // add code
-        return false;
+
     }
 }

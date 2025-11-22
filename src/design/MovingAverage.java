@@ -39,7 +39,6 @@ public class MovingAverage {
     }
     
     public double next(int val) {
-        // add code
-        return 0.0;
+
     }
 }
