@@ -53,7 +53,6 @@ strs[i] contains any possible characters out of 256 valid ASCII characters.
 */
 package design;
 
-import java.util.ArrayList;
 import java.util.List;
 
 public class Codec {
